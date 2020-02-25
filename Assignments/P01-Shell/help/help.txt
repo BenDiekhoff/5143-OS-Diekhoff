@@ -1,0 +1,15 @@
+NAME
+
+		help - file command documentation
+SYNOPSIS
+
+		help [CMD]
+
+DESCRIPTION
+
+		prints the entirety of the CMD.txt file to std out
+
+EXAMPLE
+
+		help tail
+			prints the documentation of tail.py

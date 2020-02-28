@@ -67,14 +67,17 @@
 #### Directory Structure
 
 ```
-/5143-OS-Shell
+/P01-Shell
 │   .gitignore
 │   bees.txt
 │   binary.dat
+│   cdread.txt
 │   file.txt
 │   getCmds.py
 │   headTailtest.txt
 │   ls.txt
+│   ls2.txt
+│   lstest.txt
 │   README.md
 │   shell.py
 │   sort.py
@@ -85,63 +88,57 @@
 │   test.txt
 │
 ├───cmd_pkg
-│   │   bee.txt
-│   │   cat.py
-│   │   cd.py
-│   │   chmod.py
-│   │   cp.py
-│   │   fDict.py
-│   │   grep.py
-│   │   head.py
-│   │   help.py
-│   │   hist.py
-│   │   history.py
-│   │   less.py
-│   │   ls.py
-│   │   mkdir.py
-│   │   mv.py
-│   │   pwd.py
-│   │   rm.py
-│   │   sort.py
-│   │   split.py
-│   │   tail.py
-│   │   touch.py
-│   │   wc.py
-│   │   who.py
-│   │   __init__.py
-│   │
-│   └───__pycache__
-│           cd.cpython-38.pyc
-│           ls.cpython-38.pyc
-│           pwd.cpython-38.pyc
-│           rm.cpython-38.pyc
-│           touch.cpython-38.pyc
-│           __init__.cpython-38.pyc
+│       bee.txt
+│       cat.py
+│       cd.py
+│       chmod.py
+│       cp.py
+│       fDict.py
+│       grep.py
+│       head.py
+│       help.py
+│       hist.py
+│       history.py
+│       less.py
+│       ls.py
+│       mkdir.py
+│       mv.py
+│       pwd.py
+│       rm.py
+│       sort.py
+│       split.py
+│       tail.py
+│       touch.py
+│       wc.py
+│       who.py
+│       __init__.py
 │
-├───help
-│       cat.txt
-│       cd.txt
-│       chmod.txt
-│       cp.txt
-│       grep.txt
-│       head.txt
-│       help.txt
-│       hist.txt
-│       history.txt
-│       less.txt
-│       ls.txt
-│       mkdir.txt
-│       mv.txt
-│       pwd.txt
-│       rm.txt
-│       sort.txt
-│       split.txt
-│       tail.txt
-│       touch.txt
-│       wc.txt
-│       who.txt
-│
-└───__pycache__
-        getCmds.cpython-38.pyc
+└───help
+        cat.txt
+        cd.txt
+        chmod.txt
+        cp.txt
+        error.txt
+        grep.txt
+        head.txt
+        help.txt
+        hist.txt
+        history.txt
+        intro.txt
+        intro2.txt
+        intro3.txt
+        intro4.txt
+        less.txt
+        ls.txt
+        mkdir.txt
+        mv.txt
+        pwd.txt
+        rm.txt
+        sort.txt
+        split.txt
+        tail.txt
+        touch.txt
+        wc.txt
+        who.txt
 ```
 

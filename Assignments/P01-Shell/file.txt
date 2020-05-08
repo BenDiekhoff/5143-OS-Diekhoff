@@ -1,0 +1,37 @@
+41
+42
+43
+44
+45
+46
+47
+48
+49
+LAST LINE
+41
+42
+43
+44
+45
+46
+47
+48
+49
+LAST LINE
+C:\Users\Ben-Laptop\Desktop\5143-OS-Shell1 pwd >>file.txt
+2 pwd >> file.txt
+3 pwd >> file.txt
+4 pwd >> file.txt
+5 pwd
+6 history
+7 history >> file.txt
+8 history >> file.txt
+1 pwd >>file.txt
+2 pwd >> file.txt
+3 pwd >> file.txt
+4 pwd >> file.txt
+5 pwd
+6 history
+7 history >> file.txt
+8 history >> file.txt
+9 history >> file.txt
